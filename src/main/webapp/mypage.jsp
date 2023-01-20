@@ -78,7 +78,7 @@
  
     <article>
     <p>
-	<img alt="" src="2.jpeg"> 	
+	
 	 </p>
       <h3 class="heading">Step by step!</h3>
       <footer>
@@ -87,10 +87,9 @@
 	%>
       <a class="btn" href="login.jsp">로그인</a>
       <a class="btn" href="join.jsp">회원가입</a>
-      <%   
+      <%
 	}else{
 	%>
-	 <a class="btn" href="mypage.jsp">마이페이지</a>
 	  <a class="btn" href="logoutAction.jsp">로그아웃</a>
 
 	<%
